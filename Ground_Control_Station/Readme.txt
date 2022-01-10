@@ -1,0 +1,2 @@
+Program yang ada di folder ini adalah program ketika belum menggunakan intel realsense Camera T265. Program berjalan mengguanakan PX4FLOW.
+Hasil yang di dapat bahwa PX4FLOW lebih stabil dibandingkan dengan hereflow. Pergerakan halus, namun tidak bisa membaca tracking pada map mission planner
